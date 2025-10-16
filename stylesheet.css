@@ -1,0 +1,32 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-weight: bold;
+	font-family: "Palatino", serif;
+	color: #2c3e50;
+	text-align: center;}
+nav {
+	padding: 20px;
+}
+nav a {
+	color: #05142b;
+	font-size: 20px;
+	padding: 10px;
+}
+nav a:hover {
+  color: #d96c1a;
+}
+h1,h2 {
+	color: #05142b;
+}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #c9dec4}
+img {
+	width: 50% ;
+	height: auto;
+	padding: 20px}
+ul {
+	list-style-position: inside;   
+}
